@@ -1,0 +1,1 @@
+Dieses Skript wurde für den Prüfungsvorbereitungskurs des Kurses Analysis II für Elektrotechniker von Prof. Reviere im FS2021 an der ETH Zürich geschrieben. Die behandelten Themen sind die topologischen Grundbegriffe, sowie die Einführung in die mehrdimensionale Integral- und Differentialrechnung. 
